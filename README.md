@@ -27,15 +27,15 @@
 
 ```text
 ╔══════════════════════════════════════════════════════════════════════╗
-║                         DEVELOPER PROFILE                           ║
+║                         DEVELOPER PROFILE                            ║
 ╠══════════════════════════════════════════════════════════════════════╣
-║                                                                    ║
-║  ROLE        :: Software Development Student                       ║
-║  SPECIALTY   :: Web • Mobile • Backend • Databases                 ║
-║  ENVIRONMENT :: VS Code • Git • Linux • Windows                    ║
-║  CURRENT     :: Building • Learning • Experimenting               ║
+║                                                                      ║
+║  ROLE        :: Software Development Student                        ║
+║  SPECIALTY   :: Web • Mobile • Backend • Databases                   ║
+║  ENVIRONMENT :: VS Code • Git • Linux • Windows                     ║
+║  CURRENT     :: Building • Learning • Experimenting                  ║
 ║  STATUS      :: ONLINE                                              ║
-║                                                                    ║
+║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -47,7 +47,7 @@
 
 </div>
 
-Sou um desenvolvedor em formação desde pequeno fissurado por tecnologia, entã desenvolvimento de software e foi a área que decidi seguir.
+Sou um desenvolvedor em formação desde pequeno fissurado por tecnologia, então desenvolvimento de software e foi a área que decidi seguir.
 
 Meu foco está em sempre aprender mais e buscar novas oportunidades sem medo dos riscos.
 
