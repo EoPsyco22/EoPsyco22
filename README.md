@@ -139,27 +139,11 @@ Meu TCC em grupo do curso técnico de Desinvolvimento de sistemas Conceito de si
 
 ---
 
-# `> GITHUB_ANALYTICS`
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EoPsyco22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=9B5DE5&text_color=F5F5F5"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EoPsyco22&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=F5F5F5"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=EoPsyco22&theme=tokyonight&hide_border=true&background=050816&ring=00E5FF&fire=9B5DE5&currStreakLabel=00E5FF" />
-
-</div>
-
----
-
 # `> CONTRIBUTION_MATRIX`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/EoPsyco22/EoPsyco22/workflows/snake.yml" alt="Snake animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/EoPsyco22/EoPsyco22.github/workflows/snake.yml" alt="Snake animation" width="100%"/>
 
 </div>
 
