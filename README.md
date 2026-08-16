@@ -13,11 +13,21 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=850&lines=%3E+Booting+Developer+System...;%3E+Loading+Projects...;%3E+Loading+Technology+Stack...;%3E+Connecting+to+GitHub...;%3E+System+Ready.;%3E+Welcome+to+my+digital+workspace." alt="Typing Animation"/>
 
 <br><br>
+# `> CONNECT`
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00E5FF?style=for-the-badge&logo=probot&logoColor=white"/>
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-9B5DE5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20DEVELOPMENT-4C9EE3?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MODE-CYBERPUNK-111827?style=for-the-badge"/>
+<div align="center">
+
+<a href="https://github.com/EoPsyco22">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:rafaels.pinto05@gmail.com">
+<img src="https://img.shields.io/badge/Email-00E5FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
@@ -93,20 +103,6 @@ Atualmente estudante técnico no SENAI eu exploro diferentes áreas do desenvolv
 
 <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,windows,figma&theme=dark" />
 
-</div>
-
----
-
-# `> TOOLS.IN_USE`
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
 
 ---
@@ -198,26 +194,6 @@ Meu TCC em grupo do curso técnico de Desinvolvimento de sistemas Conceito de si
 <img src="https://img.shields.io/github/followers/EoPsyco22?label=FOLLOWERS&style=for-the-badge&color=9B5DE5&logo=github" />
 
 <img src="https://img.shields.io/github/stars/EoPsyco22?label=STARS&style=for-the-badge&color=00E5FF&logo=github" />
-
-</div>
-
----
-
-# `> CONNECT`
-
-<div align="center">
-
-<a href="https://github.com/EoPsyco22">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:rafaels.pinto05@gmail.com">
-<img src="https://img.shields.io/badge/Email-00E5FF?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 
 </div>
 
