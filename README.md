@@ -63,18 +63,6 @@ Meu foco está em sempre aprender mais e buscar novas oportunidades sem medo dos
 
 Atualmente estudante técnico no SENAI eu exploro diferentes áreas do desenvolvimento, incluindo **Web Development, Mobile Development, Backend, Banco de Dados, UI/UX**.
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                     CURRENT MISSION                         │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  Learn → Build → Test → Improve → Repeat                    │
-│                                                             │
-│  [████████████████████████████████████████] 100%            │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
 ---
 
 # `> TECH_STACK`
