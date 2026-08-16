@@ -158,38 +158,6 @@ Meu TCC em grupo do curso técnico de Desinvolvimento de sistemas Conceito de si
 
 ---
 
-# `> CURRENT_OBJECTIVES`
-
-<div align="center">
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                 TERMINAL // OBJECTIVES                      │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  $ whoami                                                    │
-│  developer                                                   │
-│                                                              │
-│  $ cat objectives.txt                                        │
-│                                                              │
-│  [01] ████████████████████░░ Specialization in Cybersecurity │
-│  [02] ████████████████░░░░░  Improve my skills               │
-│  [03] ███████████████░░░░░░  Improve Python                  │
-│  [04] █████████████░░░░░░░░  Develop Real Projects           │
-│  [05] ████████████░░░░░░░░░  Improve Backend                 │
-│  [06] ██████████░░░░░░░░░░░  Explore UI/UX                   │
-│  [07] █████████░░░░░░░░░░░░  Learn New Technologies          │
-│                                                              │
-│  $ ./start-development.sh                                    │
-│  > Process started successfully.                             │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
 # `> GITHUB_ANALYTICS`
 
 <div align="center">
