@@ -97,21 +97,6 @@ Atualmente estudante técnico no SENAI eu exploro diferentes áreas do desenvolv
 
 ---
 
-# `> DEVELOPMENT_MATRIX`
-
-| Área               | Tecnologias                           |
-| :----------------- | :------------------------------------ |
-| `Frontend`         | HTML • CSS • JavaScript               |
-| `Backend`          | Python • PHP                          |
-| `Mobile`           | Dart • Flutter                        |
-| `Database`         | MySQL • SQLite • PostgreSQL • MongoDB |
-| `CMS`              | WordPress                             |
-| `UI / UX`          | Figma • Responsive Design             |
-| `Version Control`  | Git • GitHub                          |
-| `Environment`      | Linux • Windows • VS Code             
-
----
-
 # `> TOOLS.IN_USE`
 
 <div align="center">
