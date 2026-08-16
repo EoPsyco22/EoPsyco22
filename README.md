@@ -155,31 +155,11 @@ Meu TCC em grupo do curso técnico de Desinvolvimento de sistemas Conceito de si
 
 ---
 
-# `> ACTIVITY_GRAPH`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EoPsyco22&bg_color=050816&color=00E5FF&line=9B5DE5&point=00E5FF&area=true&hide_border=true&custom_title=DEVELOPER%20ACTIVITY%20GRAPH" width="100%"/>
-
-</div>
-
----
-
-# `> GITHUB_TROPHIES`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=EoPsyco22&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=2&column=4" />
-
-</div>
-
----
-
 # `> CONTRIBUTION_MATRIX`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/EoPsyco22/EoPsyco22/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/EoPsyco22/EoPsyco22/workflows/snake.yml" alt="Snake animation" width="100%"/>
 
 </div>
 
@@ -201,17 +181,6 @@ Meu TCC em grupo do curso técnico de Desinvolvimento de sistemas Conceito de si
 
 <div align="center">
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║                 "BUILD. LEARN. EVOLVE."                      ║
-║                                                              ║
-║                 SYSTEM STATUS :: ONLINE                      ║
-║                 CORE STATUS   :: DEVELOPING                  ║
-║                 NEXT UPDATE   :: SOON                        ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
 
 <br>
 
