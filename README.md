@@ -6,7 +6,7 @@
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:050816,50:0A192F,100:00E5FF&text=EoPsyco22%20%7C Rafael&fontColor=00E5FF&fontSize=48&fontAlignY=38&desc=INITIALIZING%20DEVELOPER%20PROFILE...&descAlignY=62&descSize=15&animation=twinkling)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:050816,50:0A192F,100:00E5FF&text=EoPsyco22%20| Rafael&fontColor=00E5FF&fontSize=48&fontAlignY=38&desc=INITIALIZING%20DEVELOPER%20PROFILE...&descAlignY=62&descSize=15&animation=twinkling" width="100%"/>
 
 <br>
 
