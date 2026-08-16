@@ -132,51 +132,7 @@ Atualmente estudante técnico no SENAI eu exploro diferentes áreas do desenvolv
 
 <table>
 <tr>
-
-<td width="50%" valign="top">
-
-### `T3G // TUDO 3 GAMES`
-
-Plataforma voltada para o universo gamer, desenvolvida como projeto acadêmico.
-
-**Features**
-
-* Gaming platform
-* Interface responsiva
-* WordPress
-* Sistema de usuários
-* Conteúdo gamer
-
-**Stack**
-
-`WordPress` `PHP` `MySQL` `HTML` `CSS` `JavaScript`
-
-</td>
-
-<td width="50%" valign="top">
-
-### `FAELSTATISTICS`
-
-Projeto direcionado para estatísticas e análise de dados relacionados ao futebol usado para aprendizagem de design.
-
-**Features**
-
-* Dados esportivos
-* Estatísticas
-* Interface web
-* Organização de informações
-* Análise de desempenho
-
-**Stack**
-
-`Figma`
-
-</td>
-
-</tr>
-
-<tr>
-
+  
 <td width="50%" valign="top">
 
 ### `FLUIDMES`
@@ -195,69 +151,6 @@ Meu TCC em grupo do curso técnico de Desinvolvimento de sistemas Conceito de si
 `Web` `Database` `UI/UX`
 
 </td>
-
-<td width="50%" valign="top">
-
-### `BIKE-SHOP CONNECT`
-
-Conceito de aplicação mobile para comércio de peças e produtos relacionados a bicicletas.
-
-**Features**
-
-* Catálogo
-* Produtos
-* Interface mobile
-* Experiência de usuário
-
-**Stack**
-
-`Dart` `Flutter` `UI/UX`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### `GAMEHUB`
-
-Conceito de rede social voltada para jogadores e comunidades gamer.
-
-**Features**
-
-* Perfis
-* Comunidades
-* Conteúdo gamer
-* Interação entre usuários
-
-**Stack**
-
-`Web` `UI/UX` `Database`
-
-</td>
-
-<td width="50%" valign="top">
-
-### `DARTPEDIA`
-
-Projeto CLI desenvolvido para explorar Dart, pacotes, APIs, testes e organização de projetos.
-
-**Features**
-
-* CLI
-* APIs
-* HTTP
-* Logging
-* Testes automatizados
-
-**Stack**
-
-`Dart` `HTTP` `Logging` `Testing`
-
-</td>
-
 </tr>
 </table>
 
