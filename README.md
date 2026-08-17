@@ -96,7 +96,3 @@ Atualmente estudante técnico no SENAI eu exploro diferentes áreas do desenvolv
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00E5FF,50:0A192F,100:050816&animation=twinkling"/>
-
-<sub>⚡ Designed & engineered with code, boldness and caffeine.</sub>
-
-</div>
