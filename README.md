@@ -131,7 +131,7 @@ Meu TCC em grupo do curso técnico de Desinvolvimento de sistemas Conceito de si
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/EoPsyco22/EoPsyco22//blob/output/github-contribution-grid-snake2.svg" alt="Snake animation" width="100%"/>
 
 </div>
 
