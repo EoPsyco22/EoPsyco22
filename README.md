@@ -53,7 +53,7 @@ Atualmente estudante técnico no SENAI eu exploro diferentes áreas do desenvolv
 
 <div align="center">
 
-### `LANGUAGES`
+### `SKILLS`
 
 <img src="https://skillicons.dev/icons?i=python,php,html,css,js,mysql,vscode,git,github,linux&theme=dark" />
 
