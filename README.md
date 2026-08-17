@@ -1,1 +1,1 @@
-![snake animation](https://github.com/EoPsyco22/EoPsyco22/output/github-contribution-grid-snake2.svg)
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/eopsyco22/eopsyco22/output/github-contribution-grid-snake.svg">
