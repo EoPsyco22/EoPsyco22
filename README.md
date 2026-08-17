@@ -33,22 +33,6 @@
 
 ---
 
-# `> SYSTEM.IDENTITY`
-
-```text
-╔══════════════════════════════════════════════════════════════════════╗
-║                         DEVELOPER PROFILE                            ║
-╠══════════════════════════════════════════════════════════════════════╣
-║                                                                      ║
-║  ROLE        :: Software Development Student                        ║
-║  SPECIALTY   :: Web • Mobile • Backend • Databases                   ║
-║  ENVIRONMENT :: VS Code • Git • Linux • Windows                     ║
-║  CURRENT     :: Building • Learning • Experimenting                  ║
-║  STATUS      :: ONLINE                                              ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
 ## `> ABOUT_ME`
 
 <div align="center">
@@ -71,57 +55,7 @@ Atualmente estudante técnico no SENAI eu exploro diferentes áreas do desenvolv
 
 ### `LANGUAGES`
 
-<img src="https://skillicons.dev/icons?i=python,dart,php,html,css,js,sql&theme=dark" />
-
-<br><br>
-
-### `FRAMEWORKS & DEVELOPMENT`
-
-<img src="https://skillicons.dev/icons?i=flutter,wordpress,streamlit,pygame&theme=dark" />
-
-<br><br>
-
-### `DATABASES`
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,&theme=dark" />
-
-<br><br>
-
-### `TOOLS & ENVIRONMENT`
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,windows,figma&theme=dark" />
-
-</div>
-
----
-
-# `> PROJECT_DATABASE`
-
-<div align="center">
-
-<table>
-<tr>
-  
-<td width="50%" valign="top">
-
-### `FLUIDMES`
-
-Meu TCC em grupo do curso técnico de Desinvolvimento de sistemas Conceito de sistema MES para gerenciamento e acompanhamento de processos industriais.
-
-**Features**
-
-* Monitoramento
-* Gestão de produção
-* Interface industrial
-* Organização de processos
-
-**Stack**
-
-`Web` `Database` `UI/UX`
-
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=python,php,html,css,js,mysql,vscode,git,github,linux&theme=dark" />
 
 </div>
 
