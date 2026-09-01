@@ -49,8 +49,6 @@ Atualmente estudante técnico no SENAI eu exploro diferentes áreas do desenvolv
 
 ---
 
-# `> TECH_STACK`
-
 <div align="center">
 
 ### `SKILLS`
