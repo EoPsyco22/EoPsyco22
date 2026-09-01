@@ -61,37 +61,7 @@ Atualmente estudante técnico no SENAI eu exploro diferentes áreas do desenvolv
 
 ---
 
-# `> CONTRIBUTION_MATRIX`
-
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eopsyco22/eopsyco22/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eopsyco22/eopsyco22/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/eopsyco22/eopsyco22/output/github-contribution-grid-snake.svg">
-</picture>
-
-
-</div>
-
----
-
-# `> SYSTEM_STATS`
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=EoPsyco22&label=PROFILE%20VISITS&color=00E5FF&style=for-the-badge" />
-
-<img src="https://img.shields.io/github/followers/EoPsyco22?label=FOLLOWERS&style=for-the-badge&color=9B5DE5&logo=github" />
-
-<img src="https://img.shields.io/github/stars/EoPsyco22?label=STARS&style=for-the-badge&color=00E5FF&logo=github" />
-
-</div>
-
----
-
-<div align="center">
-
 
 <br>
 
