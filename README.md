@@ -1,11 +1,5 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                    SYSTEM INITIALIZATION                       -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:050816,50:0A192F,100:00E5FF&text=EoPsyco22%20%7C%20Rafael&fontColor=00E5FF&fontSize=48&fontAlignY=38&desc=INITIALIZING%20DEVELOPER%20PROFILE...&descAlignY=62&descSize=15&animation=twinkling" width="100%"/>
 
 <br>
@@ -31,8 +25,6 @@
 
 </div>
 
----
-
 ## `> ABOUT_ME`
 
 <div align="center">
@@ -47,8 +39,6 @@ Meu foco está em sempre aprender mais e buscar novas oportunidades sem medo dos
 
 Atualmente estudante técnico no SENAI eu exploro diferentes áreas do desenvolvimento, incluindo **Web Development, Mobile Development, Backend, Banco de Dados, UI/UX**.
 
----
-
 <div align="center">
 
 ### `SKILLS`
@@ -57,10 +47,6 @@ Atualmente estudante técnico no SENAI eu exploro diferentes áreas do desenvolv
 
 </div>
 
----
-
 <div align="center">
-
-<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00E5FF,50:0A192F,100:050816&animation=twinkling"/>
